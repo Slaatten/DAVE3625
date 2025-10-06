@@ -27,3 +27,8 @@ env/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Ignorer alle Word-filer
+*.doc
+*.docx
+
